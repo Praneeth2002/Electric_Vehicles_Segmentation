@@ -1,0 +1,26 @@
+Sl. No.,Category,Vehicle Class,Vehicle SubClass,Total Registered on VAHAN 4.0
+1,Transport Vehicles ,Motor Cycle/Scooter-SideCar (T),Motor Cycle,8
+2,Transport Vehicles ,Motor Cycle/Scooter-Used For Hire,Motor Cycle,4468
+3,Transport Vehicles ,E-Rickshaw (P),Rickshaw,495781
+4,Transport Vehicles ,E-Rickshaw with Cart (G),Rickshaw,21871
+5,Transport Vehicles ,Three Wheeler (Goods),Three Wheeler,2630
+6,Transport Vehicles ,Three Wheeler (Passenger),Three Wheeler,18268
+7,Transport Vehicles ,Luxury Cab,Car,70
+8,Transport Vehicles ,Maxi Cab,Car,158
+9,Transport Vehicles ,Motor Cab,Car,3267
+10,Transport Vehicles ,Omni Bus,Bus,65
+11,Transport Vehicles ,Bus,Bus,1298
+12,Transport Vehicles ,Educational Institution Bus,Bus,9
+13,Transport Vehicles ,Goods Carrier,Three Wheeler,2591
+14,Transport Vehicles ,Private Service Vehicle,Private,7
+15,Non-Transport Vehicles,Fork Lift,Fork Lift,334
+16,Non-Transport Vehicles,M-Cycle/Scooter,Motor Cycle,135691
+17,Non-Transport Vehicles,M-Cycle/Scooter-With Side Car,Motor Cycle,121
+18,Non-Transport Vehicles,Motorised Cycle (CC > 25cc),Motor Cycle,4246
+19,Non-Transport Vehicles,Moped,Motor Cycle,13001
+20,Non-Transport Vehicles,Motor Car,Car,15700
+21,Non-Transport Vehicles,Adapted Vehicle,Car,62
+22,Non-Transport Vehicles,Three Wheeler (Personal),Three Wheeler,300
+23,Non-Transport Vehicles,Omni Bus (Private Use),Three Wheeler,14
+24,Non-Transport Vehicles,Private Service Vehicle (Individual Use),Private,11
+25,Non-Transport Vehicles,Construction Equipment Vehicle,Construction,489
